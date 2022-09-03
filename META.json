@@ -1,0 +1,14 @@
+{
+    "Single Line Expression": "شاخص کل",
+    "Baseline(1) / Derivated(0)": 1,
+    "Start End Column": "JDate",
+    "Start": "1377-09-01",
+    "End": "1397-08-14",
+    "Frequency": "Daily",
+    "Number of Rows": 6179,
+    "Number of Columns": 2,
+    "Columns Names": [
+        "JDate",
+        "Close"
+    ]
+}
